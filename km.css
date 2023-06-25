@@ -1,0 +1,14 @@
+H1{
+    color:rgb(248, 232, 1);
+    background-image: image("BK602174_641251.jpg");
+    text-align: center;
+}
+body{ 
+    background-color: chocolate;
+    border: 5px;
+    text-align: center;
+}
+form{
+    text-align: center;
+    color: tomato;
+}
